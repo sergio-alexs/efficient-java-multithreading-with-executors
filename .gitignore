@@ -1,0 +1,64 @@
+# Created by Gemini
+
+### Java ###
+# Compiled class files and archives
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Log files
+*.log
+
+### Maven ###
+# Maven target directory
+target/
+
+# Maven temporary files
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+### Gradle ###
+# Gradle build directory
+build/
+.gradle/
+
+# Gradle temporary files
+bin/
+out/
+
+### IDEs ###
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+nbproject/
+private/
+build.xml
+
+# VS Code
+.vscode/
+
+### Operating System Files ###
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
